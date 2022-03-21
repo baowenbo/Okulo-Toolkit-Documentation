@@ -1,2 +1,2 @@
 # Okulo-Toolkit-Documentation
-Okulo Toolkit Documentation for developers
+This is an **OPEN** Okulo Toolkit Documentation for developers.
